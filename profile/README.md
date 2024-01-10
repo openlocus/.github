@@ -1,5 +1,5 @@
 # Hey, this is us 👋
-![OpenLocus Banner](https://raw.githubusercontent.com/openlocus/.github/main/profile/github-org-banner-openlocus.png)
+![OpenLocus Banner](https://github.com/openlocus/.github/assets/948291/d29090ca-e1b8-4783-a32c-324439a8e725)
 
 At OpenLocus, we're advancing AI and its applications. Here's a snapshot of our work:
 
