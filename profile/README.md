@@ -1,8 +1,10 @@
 # Hey, this is us 👋
 ![OpenLocus Banner](https://raw.githubusercontent.com/openlocus/.github/main/profile/github-org-banner-openlocus.png)
 
-OpenLocus is working on open source to improve focus, filter noise, and find what matters.
+At OpenLocus, we're advancing AI and its applications. Here's a snapshot of our work:
 
-Are you dealing with information overload and filter bubbles? Do you feel there is diminishing control over the information you get? Are you finding it harder to discover relevant knowledge on the web? 
+- **LLM Powered Web Extensions**: drawing inspiration from [Andrej Karpathy](https://twitter.com/karpathy/status/1715806187663585287) to improve focus, filter noise, and find what matters.
+- **Autonomous Knowledge Discovery**: a platform to derive new insights, generate & verify hypotheses from observational data.
+- **Constrained Code & Agent Generation**: code generation & agents at scale for improving efficiency & business outcomes.
 
-We are working to fix this - follow us to know more!
+Interested in joining us? Reach out to collaborate or explore opportunities.
