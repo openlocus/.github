@@ -1,7 +1,7 @@
 # Hey, this is us 👋
 ![OpenLocus Banner](https://github.com/openlocus/.github/assets/948291/d29090ca-e1b8-4783-a32c-324439a8e725)
 
-At OpenLocus Labs, we're advancing AI and its applications. Here's a snapshot of our work:
+At [OpenLocus Labs](https://openlocus.ai/), we're advancing AI and its applications. Here's a snapshot of our work:
 
 - **LLM Powered Web Extensions**: inspired by [Andrej Karpathy](https://twitter.com/karpathy/status/1715806187663585287) to improve focus, filter noise, and find what matters.
 - **Autonomous Knowledge Discovery**: derive new insights, generate & verify hypotheses from observational data.
