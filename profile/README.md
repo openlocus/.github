@@ -4,6 +4,8 @@
 At [OpenLocus Labs](https://openlocus.ai/), we're advancing AI and its applications. Here's a snapshot of our work:
 
 - **Data-Driven Discovery**: [derive new insights, generate & verify hypotheses from observational data](https://arxiv.org/abs/2402.13610). 
+
+- **Data-Driven Discovery**: setting research direction (ICML 24), creating benchmarks, and agents to accelerate science.
 - **Reliable LLMs at Petabyte Scale**: improving analytics & reporting with LLMs for various public companies.
 - **Constrained Code Generation**: code & agent orchestration at scale for increasing efficiency & business outcomes.
 - **Forecasting with Alternate Data:** unconventional data sources & data-centric ML for Fortune 500.
