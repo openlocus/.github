@@ -9,7 +9,7 @@ At [OpenLocus Labs](https://openlocus.ai/), we're advancing AI and its applicati
 - **📈 Forecasting with Alternate Data:** unconventional data sources & data-centric ML for Fortune 500.
 - **🌐 LLM Powered Web Extensions**: inspired by [Andrej Karpathy](https://twitter.com/karpathy/status/1715806187663585287) to improve focus, filter noise, and find what matters.
 
-For our research initiatives, we closely collaborate with [Ai2]([url](https://allenai.org/about)), a Seattle-based AI research institute founded by the late Paul Allen. Our previous ML work has been used to [benchmark reasoning in LLMs](https://blog.research.google/2022/05/language-models-perform-reasoning-via.html) and has been [endorsed by AI leaders](https://www.practicalnlp.ai/#testimonials) from Microsoft & Google. 
+We work closely with [Ai2](https://allenai.org/about), a Seattle-based AI research institute founded by the late Paul Allen, to advance our research initiatives. Our previous ML work has been used to [benchmark reasoning in LLMs](https://blog.research.google/2022/05/language-models-perform-reasoning-via.html) and has been [endorsed by AI leaders](https://www.practicalnlp.ai/#testimonials) from Microsoft & Google. 
 
 -----
 
